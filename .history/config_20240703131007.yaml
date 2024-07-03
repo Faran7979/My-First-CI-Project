@@ -1,0 +1,10 @@
+project:
+  name: MyFirstCIProject
+  version: 1.0.0
+
+
+YAML
+ stands for YAML Ain't Markup Language.
+It is a human-readable data serialization standard.
+Uses indentation for nesting, similar to Python.
+Supports key-value pairs, lists, and nested structures.
